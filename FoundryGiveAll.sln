@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "foundry-give-all", "foundry-give-all\foundry-give-all.csproj", "{561242AD-08FB-4585-A74E-C676F276A98A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{561242AD-08FB-4585-A74E-C676F276A98A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{561242AD-08FB-4585-A74E-C676F276A98A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{561242AD-08FB-4585-A74E-C676F276A98A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{561242AD-08FB-4585-A74E-C676F276A98A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
