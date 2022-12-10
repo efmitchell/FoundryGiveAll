@@ -1,0 +1,16 @@
+{
+  "id": "foundry-give-all",
+  "title": "Give All Item",
+  "description": "A simple module give all players an item.",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "9",
+    "verified": "10"
+  },
+  "scripts": [
+    "scripts/give-all.js"
+  ],
+  "name": "foundry-give-all",
+  "minimumCoreVersion": "9",
+  "author": "Pear"
+}
